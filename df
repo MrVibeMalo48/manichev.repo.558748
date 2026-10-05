@@ -1,0 +1,57 @@
+[33mcommit dc0433ea43866def7c24f9798e0503473a86dd87[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: MrVibeMalo48 <mike.manichev@gmail.com>
+Date:   Mon Sep 21 11:51:18 2026 +0300
+
+    Добавлен файл ideas.txt
+
+[33mcommit 50fcc2b7f865fe6da975bd62b2f4e3c1ddb11048[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9775371 39856f3
+Author: MrVibeMalo48 <mike.manichev@gmail.com>
+Date:   Mon Sep 21 11:48:24 2026 +0300
+
+    Исправлены стоклновения в файле profile.txt
+
+[33mcommit 39856f38b6ee4588ed8b9d63645bb9e144ec5e0e[m[33m ([m[1;32mfeature-contacts[m[33m)[m
+Author: MrVibeMalo48 <mike.manichev@gmail.com>
+Date:   Mon Sep 21 11:39:25 2026 +0300
+
+    Добавлен адрес почты в profile.txt
+
+[33mcommit 97753712b0fd10679d70a0182e44a0a705766b58[m
+Author: mike.manichev.558748 <109307577+MrVibeMalo48@users.noreply.github.com>
+Date:   Mon Sep 21 11:36:18 2026 +0300
+
+    Update profile.txt
+
+[33mcommit 479a4a17bdc68c8c5dceeaeb6a79b89fc3250416[m
+Merge: e9d8892 327d5dc
+Author: mike.manichev.558748 <109307577+MrVibeMalo48@users.noreply.github.com>
+Date:   Mon Sep 21 11:11:15 2026 +0300
+
+    Merge pull request #1 from MrVibeMalo48/feature-bio
+    
+    Внесена информация профиля
+
+[33mcommit 327d5dc1dae0f675b0551746b69ef5d2b7a929a3[m
+Author: MrVibeMalo48 <mike.manichev@gmail.com>
+Date:   Mon Sep 21 11:04:31 2026 +0300
+
+    Внесена информация профиля
+
+[33mcommit e9d88924abd01e0c285d5e76e1ca20cafb60c2d5[m
+Author: MrVibeMalo48 <mike.manichev@gmail.com>
+Date:   Mon Sep 21 10:53:34 2026 +0300
+
+    Переименован author.txt в profile.txt
+
+[33mcommit 5439c82ec5fc56ba3b4776d3ff92c4ea2670e9b6[m
+Author: MrVibeMalo48 <mike.manichev@gmail.com>
+Date:   Mon Sep 21 10:49:03 2026 +0300
+
+    Коммит author.txt
+
+[33mcommit 71fc443a7821c277a68b6331f247fb31882b523c[m
+Author: mike.manichev.558748 <109307577+MrVibeMalo48@users.noreply.github.com>
+Date:   Mon Sep 21 10:26:57 2026 +0300
+
+    Initial commit
